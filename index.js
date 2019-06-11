@@ -29,4 +29,7 @@ function prependKitten(kittens, name) {
   return newKittens;
 }
 
-function removeLastKitten(kittens)
+function removeLastKitten(kittens) {
+  
+  
+}
